@@ -33,7 +33,7 @@ The Notebooks folder contains the following Jupyter notebooks, which were all us
 
 **Parabolic Hue Tests.ipynb** This tests the accuracy of the parabolic network as the hue of test images is perturbed varying distances from normal, as described in Section 6.1.
 
-**ResNet FGSM Norm Testing.ipynb** This performs the tests described in Sction 6.3 on the ResNet model, to verify the stability claims of Section 5.2 with FGSM examples. Uses code from Adversarial Example Generation, Inkawhich, N. and Uriegas, E.,  2018, Available from: https://github.com/pytorch/tutorials/blob/master/beginner_source/fgsm_tutorial.py , Accessed: 20 Feb 2022#
+**ResNet FGSM Norm Testing.ipynb** This performs the tests described in Sction 6.3 on the ResNet model, to verify the stability claims of Section 5.2 with FGSM examples. Uses code from Adversarial Example Generation, Inkawhich, N. and Uriegas, E.,  2018, Available from: https://github.com/pytorch/tutorials/blob/master/beginner_source/fgsm_tutorial.py , Accessed: 20 Feb 2022
 
 **ResNet Hue Norm Testing.ipynb** This performs the first tests described in Section 6.3 on the ResNet model, to verify the stability claims of Section 5.2 with hue-perturbed examples.
 
