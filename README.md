@@ -2,7 +2,7 @@
 This repository contains the code I've used and created in the course of my project, Partial Differential Neural Networks.
 
 ## To Run This Code
-This code depends in significant parts on the DynamicBlocks repository, https://github.com/EmoryMLIP/DynamicBlocks, and to run any code involving the parabolic network:
+This code depends in significant parts on the DynamicBlocks repository, https://github.com/EmoryMLIP/DynamicBlocks . To run any code involving the parabolic network:
 1. Download the DynamicBlocks code and set it up on your preferred environment (I used Google Colab)
 2. Replace the requirements.txt with requirements2.txt
 3. Move the current_pdenet.pt file to the results folder in the DynamicBlocks setup
